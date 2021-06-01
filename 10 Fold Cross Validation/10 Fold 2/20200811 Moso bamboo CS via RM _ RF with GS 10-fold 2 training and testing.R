@@ -1,6 +1,5 @@
-# This script is for "Forest carbon storage models (R10)" based on regression #
-# and random forest (RF) with Gibbs Sampling (GS) - a case study on moso #
-# bamboo (Phyllostachys edulis) worldwide" #
+# This script is for "Estimating divergent forest carbon stocks and sinks 
+# via a knife set approach" #
 
 
 ##1. Input data##
@@ -21,12 +20,6 @@ str(inputrawdata.R10.10.fold.2.training.1)
 
 
 ##2. install.packages##
-
-
-## 3. Data Observation ##
-
-md.pattern(inputrawdata.R10.10.fold.2.training.1)
-#Observe missing values#
 
 install.packages("ggplot2")
 require(ggplot2)
@@ -63,6 +56,12 @@ require(e1071)
 install.packages("car")
 require(car)
 # For LR's 3 assumptions test #
+
+
+## 3. Data Observation ##
+
+md.pattern(inputrawdata.R10.10.fold.2.training.1)
+#Observe missing values#
 
 ## ggpairs(inputrawdata.R10.10.fold.2.training.1) ##
 #For drawing data distribution matrix#

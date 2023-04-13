@@ -8,5 +8,8 @@ The main reason is that any design change in the weight of the independent varia
 
 Furthermore, this study has another implication: we emphasise that a simple method is not necessarily inferior and may sometimes be more efficient than a complicated method. In other parts of target variables that are difficult to estimate (such as chaotic variables), complicated computing methods are used to address them, such as operating different cooking methods for different ingredients and finally combining a fabulous set meal.
 
-The algorithm published here: 
-Wang S., Kobayashi K., Takanashi S., Liu C. P., Li D. R., Chen S. W., Moriguchi K. & Dannoura M. (2023). Estimating divergent forest carbon stocks and sinks via a knife set approach. Journal of Environmental Management, 330, 117114. doi.org/10.1016/j.jenvman.2022.117114 (SCI, IF = 8.63, Environmental Science 63/1645 = 3.8%)
+## Communication / collaboration with Forest Utilisation Lab at Kyoto University
+While not required, we encourage researchers planning to use the knife set approach to contact the principal investigator (Prof. Masako DANNOURA, Kyoto University) to inform her of intended use of the data and to discuss potential collaboration.
+
+## Citation 
+Shitephen WANG, Keito KOBAYASHI, Satoru TAKANASHI, Chung Ping LIU, Dian Rong LI, San Wen CHEN, Kai MORIGUCHI & Masoko DANNOURA (2023). Estimating divergent forest carbon stocks and sinks via a knife set approach. Journal of Environmental Management, 330, 117114. doi.org/10.1016/j.jenvman.2022.117114

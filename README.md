@@ -13,3 +13,6 @@ While not required, we encourage researchers planning to use the knife set appro
 
 ## Citation 
 Shitephen WANG, Keito KOBAYASHI, Satoru TAKANASHI, Chung Ping LIU, Dian Rong LI, San Wen CHEN, Kai MORIGUCHI & Masoko DANNOURA (2023). Estimating divergent forest carbon stocks and sinks via a knife set approach. Journal of Environmental Management, 330, 117114. doi.org/10.1016/j.jenvman.2022.117114
+
+## Contacts
+If Shitephen WANG (gn03138868@gmail.com) does not exist anymore, please further contact to Kai MORIGUCHI & Masoko DANNOURA.
